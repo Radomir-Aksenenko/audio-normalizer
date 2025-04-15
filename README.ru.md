@@ -1,5 +1,10 @@
 # Нормализатор аудио
 
+[![Лицензия: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![English](https://img.shields.io/badge/English-README-blue)](README.md)
+[![Русский](https://img.shields.io/badge/Русский-README-blue)](README.ru.md)
+[![中文](https://img.shields.io/badge/中文-README-blue)](README.zh.md)
+
 Многофункциональное приложение для нормализации аудио в видеофайлах с поддержкой множества языков и пакетной обработки.
 
 ## Возможности

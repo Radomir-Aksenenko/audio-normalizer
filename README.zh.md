@@ -1,5 +1,10 @@
 # 音频标准化工具
 
+[![许可证: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![English](https://img.shields.io/badge/English-README-blue)](README.md)
+[![Русский](https://img.shields.io/badge/Русский-README-blue)](README.ru.md)
+[![中文](https://img.shields.io/badge/中文-README-blue)](README.zh.md)
+
 一个支持多语言和批量处理的视频文件音频标准化多功能应用程序。
 
 ## 功能特点

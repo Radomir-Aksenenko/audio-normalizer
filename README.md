@@ -1,5 +1,10 @@
 # Audio Normalizer
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![English](https://img.shields.io/badge/English-README-blue)](README.md)
+[![Русский](https://img.shields.io/badge/Русский-README-blue)](README.ru.md)
+[![中文](https://img.shields.io/badge/中文-README-blue)](README.zh.md)
+
 A multifunctional application for audio normalization in video files with multi-language support and batch processing.
 
 ## Features
@@ -77,4 +82,4 @@ python normalize_audio.py
 
 ## License
 
-MIT License 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
